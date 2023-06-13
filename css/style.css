@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+body{
+	background-color:white;
+	font-color: blue;
+	font-family: "Cambria";
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+	
+
+h1{
+	font-color: blue;
+	font-size: 24px;
+	font-family: "Times New Roman";
+}
+
+p{
+	text-align: left;
+	font-size: 14px;
+	font-color: violet;
+}
+
+h2{
+	text-align: left;
+	font-size: 24px;
+}
+
+.title {
+	font-weight: bold;
+	font-style: normal;
+	font-family: "Source Sans Pro";
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 2px;
+}
+
+.navi {
+	background-color:purple;
+	
+}
